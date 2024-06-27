@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(110, 142, 202);
+}
+h1{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    background-color: white;
+}
+h2{
+    background-color: rgb(49, 49, 194);
+}
+#table_one{
+    font-size: 20px;
+}
+#term_cond{
+
+}
+#t_c{
+    color: navy;
+}
+#term_sign{
+    display: flex;
+}
+#sign{
+    margin-left: 600px;
+}
+#date{
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+}
+#pay_mode{
+display: flex;
+}
+#annual{
+    margin-left: 10px;
+}
+#name_f{
+    display: flex;
+}
+#f{
+    margin-left:20px ;
+}
+p{
+    font-size: 20px;
+}
+#birth_gender{
+    display: flex;
+}
+#gender{
+    margin-left: 20px;
+}
+#larka{
+    margin-left: 20px;
+}
+#ph_em{
+    display: flex;
+}
+#email{
+    margin-left: 20px;
+}
+#id_secure{
+    display: flex;
+}
+#secure{
+    margin-left: 20px;
+}
+#status{
+    display: flex;
+}
+#sing{
+    margin-left: 20px;
+}
+#occupy{
+display: flex;
+}
+#yeah{
+    margin: 20px;
+}
+#are_you{
+    margin: 20px;
+}
